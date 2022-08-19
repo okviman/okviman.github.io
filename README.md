@@ -1,5 +1,3 @@
-## Oskar Kviman
-
 ### About me
 I am a PhD student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, Stockholm. My research interests are in Bayesian phylogenetics and probabilistic machine learning in general. From a machine learning perspective, my recent and current works involve, e.g., variational inference, variational auto-encoders, importance sampling, sequential Monte Carlo methods and Monte Carlo objective functions. In phylogenetics, I research variational inference-based phylogenetics, tree sampling methods and joint inference of gene and species trees.
 
