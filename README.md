@@ -6,7 +6,7 @@ I am a PhD student working in the [Lagergren Lab](https://lagergrenlab.org/) at 
 
 ### Articles
 - [VaiPhy: a Variational Inference Based Algorithm for Phylogeny](https://arxiv.org/abs/2203.01121), arxiv (2022) with Hazal Koptagel, Harald Melin, Negar Safinianaini and [Jens Lagergren](https://lagergrenlab.org/)
-- [Multiple Importance Sampling ELBO and Deep Ensembles of Variational Approximationsand Deep Ensembles of Variational Approximations](https://proceedings.mlr.press/v151/kviman22a.html), featured in the proceedings of the AISTATS-22 conference with Harald Melin, Hazal Koptagel, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/)
+- [Multiple Importance Sampling ELBO and Deep Ensembles of Variational Approximations and Deep Ensembles of Variational Approximations](https://proceedings.mlr.press/v151/kviman22a.html), featured in the proceedings of the AISTATS-22 conference with Harald Melin, Hazal Koptagel, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/)
 
 
 ### Teaching at KTH
