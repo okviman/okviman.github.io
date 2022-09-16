@@ -5,6 +5,8 @@
 
 Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, Stockholm. 
 
+email: okviman@kth.se
+
 ### Research interests 
 
 **Probabilistic machine learning**: My recent and current works involve, e.g., variational inference, variational auto-encoders, importance sampling, sequential Monte Carlo methods and Monte Carlo objective functions.
