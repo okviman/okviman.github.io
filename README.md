@@ -2,6 +2,7 @@
 
 
 <img align="right" src="oskar2.jpg" alt="drawing" width="200"/>
+
 Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, Stockholm. 
 
 ### Research interests 
