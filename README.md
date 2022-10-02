@@ -21,5 +21,6 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 
 ### Teaching at KTH
-- Statistical Methods in Applied Computer Science (Lecturer)
-- Machine Learning, Advanced Course (TA)
+- [Statistical Methods in Applied Computer Science](https://www.kth.se/student/kurser/kurs/DD2447) (Lecturer; 2021-)
+- [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) (TA; 2020-)
+- [Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)
