@@ -26,11 +26,8 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 - [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) (TA; 2020-2022)
 - [Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)
 
-### Services
-#### Awards
-- Top reviewer (10%) [link](https://aistats.org/aistats2023/reviewers.html)
-#### Reviewer
-- AISTATS 2023
+### Reviewing
+- AISTATS 2023: **rewarded Top reviewer** (10%) [link](https://aistats.org/aistats2023/reviewers.html)
 - NeurIPS 2022
 - ICML 2022
 - AISTATS 2022
