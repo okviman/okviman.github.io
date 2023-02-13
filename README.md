@@ -1,6 +1,4 @@
 
-
-
 <img align="right" src="oskar2.jpg" alt="drawing" width="200"/>
 
 Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, Stockholm.<br />email: okviman@kth.se
@@ -10,12 +8,6 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 **Probabilistic machine learning**: My recent and current works involve, e.g., variational inference, variational auto-encoders, importance sampling, sequential Monte Carlo methods and Monte Carlo objective functions.
 
 **Bayesian phylogenetics**: I research variational inference-based phylogenetics, tree sampling methods and joint inference of gene and species trees.
-
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'Publications')">Publications</button>
-  <button class="tablinks" onclick="openCity(event, 'Teaching and Supervision')">Teaching and Supervision</button>
-  <button class="tablinks" onclick="openCity(event, 'Services')">Services</button>
-</div>
 
 
 ### Articles
