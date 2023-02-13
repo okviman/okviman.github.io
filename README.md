@@ -20,16 +20,12 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 - [\[Re\] Tensor Monte Carlo: Particle Methods for the GPU Era](http://rescience.github.io/bibliography/Kviman_2020.html), *NeurIPS 2019 Reproducibility Challenge/ReScience-C Journal Publication* (with Linus Nilsson and Martin Larsson)
 - [Sequence Disambiguation with Synaptic Traces in Associative Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-30487-4_61), *ICANN 2019* (with Ramon H. Martinez, Anders Lansner and Pawel Herman)
 
-### Teaching at KTH
-- [Statistical Methods in Applied Computer Science](https://www.kth.se/student/kurser/kurs/DD2447) (Lecturer; 2021-)
-- [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) (TA; 2020-2022)
-- [Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)
 
-### Reviewing
-- AISTATS 2023: **rewarded Top reviewer** (10%; [link](https://aistats.org/aistats2023/reviewers.html))
-- NeurIPS 2022
-- ICML 2022
-- AISTATS 2022
-- ICML 2021
-
+| Reviewing | Teaching at KTH|Master Thesis Supervision|
+| ----------- | ----------- | ----------- |
+| AISTATS 2023: **rewarded Top reviewer** (10%; [link](https://aistats.org/aistats2023/reviewers.html)) | [Statistical Methods in Applied Computer Science](https://www.kth.se/student/kurser/kurs/DD2447) (Lecturer; 2021-) | Xindi Liu (KTH; 2022) |
+| NeurIPS 2022 | [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) (TA; 2020-2022) | Ricky Molén (KTH; 2022) |
+|ICML 2022|[Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)| |
+|AISTATS 2022| | |
+|ICML 2021|| |
 
