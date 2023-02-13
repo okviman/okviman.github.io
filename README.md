@@ -11,6 +11,13 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 **Bayesian phylogenetics**: I research variational inference-based phylogenetics, tree sampling methods and joint inference of gene and species trees.
 
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Publications')">Publications</button>
+  <button class="tablinks" onclick="openCity(event, 'Teaching and Supervision')">Teaching and Supervision</button>
+  <button class="tablinks" onclick="openCity(event, 'Services')">Services</button>
+</div>
+
+
 ### Articles
 - [Learning with MISELBO: The Mixture Cookbook](https://arxiv.org/abs/2209.15514), *arxiv* (with Ricky Molén, Alexandra Hotti, Semih Kurt, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/))
 - [VaiPhy: a Variational Inference Based Algorithm for Phylogeny](https://arxiv.org/abs/2203.01121), *\[**Oral**\] NeurIPS 2022* (with Hazal Koptagel, [Harald Melin](https://haraldmelin.github.io/), Negar Safinianaini and [Jens Lagergren](https://lagergrenlab.org/))
