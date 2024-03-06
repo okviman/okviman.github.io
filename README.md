@@ -11,7 +11,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 
 ### Articles
-- [Indirectly Parameterized Concrete Autoencoders](https://arxiv.org/abs/2403.00563) (with Alfred Nilsson, Klas Wijk, Sai bharath chandra Gutha, Erik Englesson, Alexandra Hotti, Carlo Saccardi, Jens Lagergren, Ricardo Vinuesa and Hossein Azizpour)
+- [Indirectly Parameterized Concrete Autoencoders](https://arxiv.org/abs/2403.00563) (with Alfred Nilsson, Klas Wijk, Sai Bharath Chandra Gutha, Erik Englesson, Alexandra Hotti, Carlo Saccardi, Jens Lagergren, Ricardo Vinuesa and Hossein Azizpour)
 - Variational Resampling, *AISTATS 2024* (with Nicola Branchini, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/))
 - [Improved Variational Bayesian Phylogenetic Inference using Mixtures](https://arxiv.org/abs/2310.00941), *arxiv* (with Ricky Molén and [Jens Lagergren](https://lagergrenlab.org/))
 - [Cooperation in the Latent Space: The Benefits of Adding Mixture Components in Variational Autoencoders](https://openreview.net/pdf?id=1LwrewdXVJ), *ICML 2023* (with Ricky Molén, Alexandra Hotti, Semih Kurt, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/))
