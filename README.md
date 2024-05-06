@@ -11,7 +11,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 
 ### Conference Publications/Preprints
-- Efficient Mixture Learning in Black-Box Variational Inference, *ICML 2024* (with Alexandra Hotti, Rocky Molén, Víctor Elvira and Jens Lagergren)
+- Efficient Mixture Learning in Black-Box Variational Inference, *ICML 2024* (with Alexandra Hotti, Ricky Molén, Víctor Elvira and Jens Lagergren)
 - [Indirectly Parameterized Concrete Autoencoders](https://arxiv.org/abs/2403.00563), *ICML 2024* (with Alfred Nilsson, Klas Wijk, Sai Bharath Chandra Gutha, Erik Englesson, Alexandra Hotti, Carlo Saccardi, Jens Lagergren, Ricardo Vinuesa and Hossein Azizpour)
 - [Variational Resampling](https://proceedings.mlr.press/v238/kviman24a), *AISTATS 2024* (with Nicola Branchini, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/))
 - [Improved Variational Bayesian Phylogenetic Inference using Mixtures](https://arxiv.org/abs/2310.00941), *arxiv* (with Ricky Molén and [Jens Lagergren](https://lagergrenlab.org/))
