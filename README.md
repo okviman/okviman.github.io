@@ -10,7 +10,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 **Bayesian phylogenetics**: I research variational inference-based phylogenetics, tree sampling methods and joint inference of gene and species trees.
 
 
-### Articles
+### Conference Publications/Preprints
 - Efficient Mixture Learning in Black-Box Variational Inference, *ICML 2024* (with Alexandra Hotti, Rocky Molén, Víctor Elvira and Jens Lagergren)
 - [Indirectly Parameterized Concrete Autoencoders](https://arxiv.org/abs/2403.00563), *ICML 2024* (with Alfred Nilsson, Klas Wijk, Sai Bharath Chandra Gutha, Erik Englesson, Alexandra Hotti, Carlo Saccardi, Jens Lagergren, Ricardo Vinuesa and Hossein Azizpour)
 - [Variational Resampling](https://proceedings.mlr.press/v238/kviman24a), *AISTATS 2024* (with Nicola Branchini, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/))
@@ -19,9 +19,15 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 - [VaiPhy: a Variational Inference Based Algorithm for Phylogeny](https://arxiv.org/abs/2203.01121), *\[**Oral**\] NeurIPS 2022* (with Hazal Koptagel, [Harald Melin](https://haraldmelin.github.io/), Negar Safinianaini and [Jens Lagergren](https://lagergrenlab.org/))
 - [Multiple Importance Sampling ELBO and Deep Ensembles of Variational Approximations](https://proceedings.mlr.press/v151/kviman22a.html), *AISTATS 2022* (with [Harald Melin](https://haraldmelin.github.io/), Hazal Koptagel, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/)) \[[5-min presentation](https://slideslive.com/38980790/multiple-importance-sampling-elbo-and-deep-ensembles-of-variational-approximations?ref=recommended)\]
 - [Statistical Distance Based Deterministic Offspring Selection in SMC Methods](https://arxiv.org/abs/2212.12290), *arxiv* (with Hazal Koptagel, [Harald Melin](https://haraldmelin.github.io/) and [Jens Lagergren](https://lagergrenlab.org/))
-- [KL/TV Reshuffling: Statistical Distance Based Offspring Selection in SMC Methods](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=15&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=en&pid=diva2%3A1692964&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-4716), *Master Thesis 2020*
-- [\[Re\] Tensor Monte Carlo: Particle Methods for the GPU Era](http://rescience.github.io/bibliography/Kviman_2020.html), *NeurIPS 2019 Reproducibility Challenge/ReScience-C Journal Publication* (with Linus Nilsson and Martin Larsson)
 - [Sequence Disambiguation with Synaptic Traces in Associative Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-30487-4_61), *ICANN 2019* (with Ramon H. Martinez, Anders Lansner and Pawel Herman)
+-----------------
+### Journal Publications
+- [\[Re\] Tensor Monte Carlo: Particle Methods for the GPU Era](http://rescience.github.io/bibliography/Kviman_2020.html), *NeurIPS 2019 Reproducibility Challenge/ReScience-C Journal Publication* (with Linus Nilsson and Martin Larsson)
+-----------------
+### Theses
+- [KL/TV Reshuffling: Statistical Distance Based Offspring Selection in SMC Methods](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=15&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=en&pid=diva2%3A1692964&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-4716), *Master Thesis 2020* (supervised by [Jens Lagergren](https://lagergrenlab.org/))
+- [Applicability of a Translucent Barrier Based Model of Noise](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1264837&dswid=-1411), *Bachelor Thesis 2018* (with Linus Nilsson; supervised by [Saikat Chatterjee](https://www.kth.se/profile/sach))
+
 
 
 | Reviewing | Teaching at KTH|Master Thesis Supervision|
