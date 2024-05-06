@@ -20,13 +20,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 - [Multiple Importance Sampling ELBO and Deep Ensembles of Variational Approximations](https://proceedings.mlr.press/v151/kviman22a.html), *AISTATS 2022* (with [Harald Melin](https://haraldmelin.github.io/), Hazal Koptagel, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/)) \[[5-min presentation](https://slideslive.com/38980790/multiple-importance-sampling-elbo-and-deep-ensembles-of-variational-approximations?ref=recommended)\]
 - [Statistical Distance Based Deterministic Offspring Selection in SMC Methods](https://arxiv.org/abs/2212.12290), *arxiv* (with Hazal Koptagel, [Harald Melin](https://haraldmelin.github.io/) and [Jens Lagergren](https://lagergrenlab.org/))
 - [Sequence Disambiguation with Synaptic Traces in Associative Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-30487-4_61), *ICANN 2019* (with Ramon H. Martinez, Anders Lansner and Pawel Herman)
------------------
-### Journal Publications
-
 - [\[Re\] Tensor Monte Carlo: Particle Methods for the GPU Era](http://rescience.github.io/bibliography/Kviman_2020.html), *NeurIPS 2019 Reproducibility Challenge/ReScience-C Journal Publication* (with Linus Nilsson and Martin Larsson)
------------------
-### Theses
-
 - [KL/TV Reshuffling: Statistical Distance Based Offspring Selection in SMC Methods](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=15&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=en&pid=diva2%3A1692964&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-4716), *Master Thesis 2020* (supervised by [Jens Lagergren](https://lagergrenlab.org/))
 - [Applicability of a Translucent Barrier Based Model of Noise](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1264837&dswid=-1411), *Bachelor Thesis 2018* (with Linus Nilsson; supervised by [Saikat Chatterjee](https://www.kth.se/profile/sach))
 
