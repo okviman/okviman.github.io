@@ -7,7 +7,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 **Probabilistic machine learning**: My recent and current works involve, e.g., variational inference, variational auto-encoders, importance sampling, sequential Monte Carlo methods and Monte Carlo objective functions.
 
-**Cancer genomics**: Currently I am working on inference of clone distributions based on gene expression from spatial transcriptomics data.
+**Cancer genomics**: Currently I am working on inference of clone distributions based on gene expressions from spatial transcriptomics data.
 
 **Phylogenetics**: I research variational inference-based phylogenetics and tree sampling methods. Cancer clone tree inference is also of interest.
 
