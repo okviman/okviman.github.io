@@ -34,7 +34,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 | Reviewing | Teaching at KTH|Master Thesis Supervision|
 | ----------- | ----------- | ----------- |
-|AAAI 2024| [Statistical Methods in Applied Computer Science](https://www.kth.se/student/kurser/kurs/DD2447) (Lecturer; 2021-) | Xindi Liu (KTH; 2022)|
+|AAAI 2025| [Statistical Methods in Applied Computer Science](https://www.kth.se/student/kurser/kurs/DD2447) (Lecturer; 2021-) | Xindi Liu (KTH; 2022)|
 |Advances in approximate Bayesian inference 2023 | [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) (TA; 2020-2022)| Ricky Molén (KTH; 2022)|
 |NeurIPS 2023 | [Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)| |
 |AISTATS 2023: **rewarded Top reviewer** (10%; [link](https://aistats.org/aistats2023/reviewers.html)) | ||
