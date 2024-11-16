@@ -13,7 +13,6 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 
 ### Conference Publications/Preprints
-- [Improved Variational Bayesian Phylogenetic Inference using Mixtures](https://openreview.net/pdf?id=TBLMrHaFFH), *TMLR 2024* (with Ricky Molén and [Jens Lagergren](https://lagergrenlab.org/))
 - [Efficient Mixture Learning in Black-Box Variational Inference](https://arxiv.org/pdf/2406.07083), *ICML 2024* (with Alexandra Hotti, Ricky Molén, Víctor Elvira and Jens Lagergren)
 - [Indirectly Parameterized Concrete Autoencoders](https://arxiv.org/abs/2403.00563), *ICML 2024* (with Alfred Nilsson, Klas Wijk, Sai Bharath Chandra Gutha, Erik Englesson, Alexandra Hotti, Carlo Saccardi, Jens Lagergren, Ricardo Vinuesa and Hossein Azizpour)
 - [Variational Resampling](https://proceedings.mlr.press/v238/kviman24a), *AISTATS 2024* (with Nicola Branchini, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/))
@@ -24,6 +23,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 - [Sequence Disambiguation with Synaptic Traces in Associative Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-30487-4_61), *ICANN 2019* (with Ramon H. Martinez, Anders Lansner and Pawel Herman)
 
 ### Journal Publications
+- [Improved Variational Bayesian Phylogenetic Inference using Mixtures](https://openreview.net/pdf?id=TBLMrHaFFH), *TMLR 2024* (with Ricky Molén and [Jens Lagergren](https://lagergrenlab.org/))
 - [\[Re\] Tensor Monte Carlo: Particle Methods for the GPU Era](http://rescience.github.io/bibliography/Kviman_2020.html), *NeurIPS 2019 Reproducibility Challenge/ReScience-C Journal Publication* (with Linus Nilsson and Martin Larsson)
 
 ### Theses
