@@ -1,18 +1,19 @@
 
 <img align="right" src="oskar2.jpg" alt="drawing" width="200"/>
 
-Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, Stockholm.<br />email: okviman@kth.se or okviman@gmail.com<br />Expected to graduate spring 2026 but can graduate autumn 2025
+Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, Stockholm.<br />email: okviman@kth.se or okviman@gmail.com<br />
 
 ### Research interests 
 
-**Probabilistic machine learning**: My recent and current works involve, e.g., variational inference, variational auto-encoders, importance sampling, sequential Monte Carlo methods and Monte Carlo objective functions.
+**Generative AI**: flow matching, Schrödinger bridges, diffusion models, variational autoencoders, normalizing flows; 
 
-**Cancer genomics**: Currently I am working on inference of clone distributions based on gene expressions from spatial transcriptomics data.
+**Computational cancer**: differential expression testing, spatial transcriptomics, scRNA-seq, phylogenetics;
 
-**Phylogenetics**: I research variational inference-based phylogenetics and tree sampling methods. Cancer clone tree inference is also of interest.
+**Statistical inference**: variational inference, sequential Monte Carlo, MCMC, statistical testing;
 
 
 ### Conference Publications/Preprints
+- [LN's $t$-test: A Principled Approach to $t$-testing in scRNA-seq](https://www.biorxiv.org/content/10.1101/2025.03.12.642799v1), *bioRxiv* (with [Seong-Hwan Jun](http://junseonghwan.github.io/) and Jens Lagergren)
 - [Efficient Mixture Learning in Black-Box Variational Inference](https://arxiv.org/pdf/2406.07083), *ICML 2024* (with Alexandra Hotti, Ricky Molén, Víctor Elvira and Jens Lagergren)
 - [Indirectly Parameterized Concrete Autoencoders](https://arxiv.org/abs/2403.00563), *ICML 2024* (with Alfred Nilsson, Klas Wijk, Sai Bharath Chandra Gutha, Erik Englesson, Alexandra Hotti, Carlo Saccardi, Jens Lagergren, Ricardo Vinuesa and Hossein Azizpour)
 - [Variational Resampling](https://proceedings.mlr.press/v238/kviman24a), *AISTATS 2024* (with Nicola Branchini, [Víctor Elvira](https://victorelvira.github.io/) and [Jens Lagergren](https://lagergrenlab.org/))
@@ -34,9 +35,10 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 | Reviewing | Teaching at KTH|Master Thesis Supervision|
 | ----------- | ----------- | ----------- |
-|AAAI 2025| [Statistical Methods in Applied Computer Science](https://www.kth.se/student/kurser/kurs/DD2447) (Lecturer; 2021-) | Xindi Liu (KTH; 2022)|
-|Advances in approximate Bayesian inference 2023 | [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) (TA; 2020-2022)| Ricky Molén (KTH; 2022)|
-|NeurIPS 2023 | [Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)| |
+|ICLR 2025 | [Statistical Methods in Applied Computer Science](https://www.kth.se/student/kurser/kurs/DD2447) (Lecturer; 2021-)| Xindi Liu (KTH; 2022) |
+|AAAI 2025|  [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) (TA; 2020-2022)| Ricky Molén (KTH; 2022)|
+|Advances in approximate Bayesian inference 2023 | [Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)| |
+|NeurIPS 2023 | ||
 |AISTATS 2023: **rewarded Top reviewer** (10%; [link](https://aistats.org/aistats2023/reviewers.html)) | ||
 |NeurIPS 2022 | |
 |ICML 2022| |
