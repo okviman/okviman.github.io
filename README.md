@@ -5,7 +5,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 ### Research interests 
 
-**Generative AI**: flow matching, Schrödinger bridges, diffusion models, variational autoencoders, normalizing flows; 
+**Generative AI**: flow matching, Schrödinger bridges, diffusion models, variational autoencoders, generative adversarial networks, normalizing flows; 
 
 **Computational cancer**: differential expression testing, spatial transcriptomics, scRNA-seq, phylogenetics;
 
