@@ -9,10 +9,11 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 **Computational cancer**: differential expression testing, spatial transcriptomics, scRNA-seq, phylogenetics;
 
-**Statistical inference**: variational inference, sequential Monte Carlo, MCMC, statistical testing;
+**Statistical inference**: variational inference, sequential Monte Carlo, optimal transport, MCMC, statistical testing;
 
 
 ### Conference Publications/Preprints
+- [Multi-Marginal Flow Matching with Adversarially Learnt Interpolants](https://arxiv.org/abs/2510.01159), full-length version of our workshop paper in *[Frontiers in Probabilistic Inference 2025](https://fpineurips.framer.website/)* (with Kirill Tamogashev, Nicola Branchini, Víctor Elvira, Jens Lagergren and Nikolay Malkin)
 - [LN's $t$-test: A Principled Approach to $t$-testing in scRNA-seq](https://www.biorxiv.org/content/10.1101/2025.03.12.642799v1), *bioRxiv* (with [Seong-Hwan Jun](http://junseonghwan.github.io/) and Jens Lagergren)
 - [Efficient Mixture Learning in Black-Box Variational Inference](https://arxiv.org/pdf/2406.07083), *ICML 2024* (with Alexandra Hotti, Ricky Molén, Víctor Elvira and Jens Lagergren)
 - [Indirectly Parameterized Concrete Autoencoders](https://arxiv.org/abs/2403.00563), *ICML 2024* (with Alfred Nilsson, Klas Wijk, Sai Bharath Chandra Gutha, Erik Englesson, Alexandra Hotti, Carlo Saccardi, Jens Lagergren, Ricardo Vinuesa and Hossein Azizpour)
@@ -37,7 +38,8 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 | ----------- | ----------- | ----------- |
 |ICLR 2025 | [Statistical Methods in Applied Computer Science](https://www.kth.se/student/kurser/kurs/DD2447) (Lecturer; 2021-)| Xindi Liu (KTH; 2022) |
 |AAAI 2025|  [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) (TA; 2020-2022)| Ricky Molén (KTH; 2022)|
-|Advances in approximate Bayesian inference 2023 | [Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)| |
+|NerIPS 2025 | [Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)| |
+|Advances in approximate Bayesian inference 2023| ||
 |NeurIPS 2023 | ||
 |AISTATS 2023: **rewarded Top reviewer** (10%; [link](https://aistats.org/aistats2023/reviewers.html)) | ||
 |NeurIPS 2022 | |
