@@ -33,6 +33,10 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 - [KL/TV Reshuffling: Statistical Distance Based Offspring Selection in SMC Methods](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=15&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=en&pid=diva2%3A1692964&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-4716), *Master Thesis 2020* (supervised by [Jens Lagergren](https://lagergrenlab.org/))
 - [Applicability of a Translucent Barrier Based Model of Noise](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1264837&dswid=-1411), *Bachelor Thesis 2018* (with Linus Nilsson; supervised by [Saikat Chatterjee](https://www.kth.se/profile/sach))
 
+### Acknowledged in
+- [Reinforced sequential Monte Carlo for amortised sampling](https://arxiv.org/abs/2510.11711)
+- [PhyloGFN: Phylogenetic inference with generative flow networks](https://arxiv.org/abs/2310.08774)
+
 
 
 | Reviewing | Teaching at KTH|Master Thesis Supervision|
