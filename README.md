@@ -11,7 +11,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 **Statistical inference**: variational inference, sequential Monte Carlo, optimal transport, MCMC, statistical testing;
 
-<body style="background-color:#FF644E;">
+
 ### Conference Publications/Preprints
 - [Multi-Marginal Flow Matching with Adversarially Learnt Interpolants](https://arxiv.org/abs/2510.01159), full-length version of our workshop paper in *[Frontiers in Probabilistic Inference 2025](https://fpineurips.framer.website/)* (with Kirill Tamogashev, Nicola Branchini, Víctor Elvira, Jens Lagergren and Nikolay Malkin)
 - On the Bias of Variational Resampling, submitted to an ML conference 2025 (with Axel Finke, Nicola Branchini and Víctor Elvira)
@@ -28,7 +28,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 ### Journal Publications
 - [Improved Variational Bayesian Phylogenetic Inference using Mixtures](https://openreview.net/pdf?id=TBLMrHaFFH), *TMLR 2024* (with Ricky Molén and [Jens Lagergren](https://lagergrenlab.org/))
 - [\[Re\] Tensor Monte Carlo: Particle Methods for the GPU Era](http://rescience.github.io/bibliography/Kviman_2020.html), *NeurIPS 2019 Reproducibility Challenge/ReScience-C Journal Publication* (with Linus Nilsson and Martin Larsson
-</body>
+
 
 ### Theses
 - [KL/TV Reshuffling: Statistical Distance Based Offspring Selection in SMC Methods](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=15&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=en&pid=diva2%3A1692964&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-4716), *Master Thesis 2020* (supervised by [Jens Lagergren](https://lagergrenlab.org/))
