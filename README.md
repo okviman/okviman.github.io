@@ -14,7 +14,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 ### Conference Publications/Preprints
 - [Multi-Marginal Flow Matching with Adversarially Learnt Interpolants](https://arxiv.org/abs/2510.01159), full-length version of our workshop paper in *[Frontiers in Probabilistic Inference 2025](https://fpineurips.framer.website/)* (with Kirill Tamogashev, Nicola Branchini, Víctor Elvira, Jens Lagergren and Nikolay Malkin)
-- On the Bias of Variational Resampling, submitted to an ML conference 2025 (with Axel Finke, Nicola Branchini and Víctor Elvira)
+- On the Bias of Variational Resampling, *AISTATS 2026* (with Axel Finke, Nicola Branchini and Víctor Elvira)
 - [LN's t-test: A Principled Approach to t-testing in scRNA-seq](https://www.biorxiv.org/content/10.1101/2025.03.12.642799v1), *bioRxiv* (with [Seong-Hwan Jun](http://junseonghwan.github.io/) and Jens Lagergren)
 - [Efficient Mixture Learning in Black-Box Variational Inference](https://arxiv.org/pdf/2406.07083), *ICML 2024* (with Alexandra Hotti, Ricky Molén, Víctor Elvira and Jens Lagergren)
 - [Indirectly Parameterized Concrete Autoencoders](https://arxiv.org/abs/2403.00563), *ICML 2024* (with Alfred Nilsson, Klas Wijk, Sai Bharath Chandra Gutha, Erik Englesson, Alexandra Hotti, Carlo Saccardi, Jens Lagergren, Ricardo Vinuesa and Hossein Azizpour)
