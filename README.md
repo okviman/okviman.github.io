@@ -1,7 +1,9 @@
 
 <img align="right" src="oskar2.jpg" alt="drawing" width="200"/>
 
-Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, Stockholm.<br />email: okviman@kth.se or okviman@gmail.com<br />
+ETH AI Center postdoctoral fellow (2026 cohort) with mentors [Niko Beerenwinkel](https://bsse.ethz.ch/cbg) and [Valentina Boeva](https://boevalab.inf.ethz.ch/index.html). 
+
+Ph.D. in Computer science from KTH.<br />email: okviman@kth.se or okviman@gmail.com<br />
 
 ### Research interests 
 
@@ -31,6 +33,7 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 
 ### Theses
+- [Variational Mixtures and Multi-Marginal Flow Matching: Advancing Statistical Inference with Biological Applications](https://kth.diva-portal.org/smash/get/diva2:2055601/FULLTEXT01.pdf), *Ph.D. Thesis 2026* (opponent: [Ben Raphael](https://engineering.princeton.edu/faculty/ben-raphael); supervised by [Jens Lagergren](https://lagergrenlab.org/))
 - [KL/TV Reshuffling: Statistical Distance Based Offspring Selection in SMC Methods](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=15&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=en&pid=diva2%3A1692964&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-4716), *Master Thesis 2020* (supervised by [Jens Lagergren](https://lagergrenlab.org/))
 - [Applicability of a Translucent Barrier Based Model of Noise](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1264837&dswid=-1411), *Bachelor Thesis 2018* (with Linus Nilsson; supervised by [Saikat Chatterjee](https://www.kth.se/profile/sach))
 
@@ -42,10 +45,10 @@ Ph.D. student working in the [Lagergren Lab](https://lagergrenlab.org/) at KTH, 
 
 | Reviewing | Teaching at KTH|Master Thesis Supervision|
 | ----------- | ----------- | ----------- |
-|ICLR 2025 | [Statistical Methods in Applied Computer Science](https://www.kth.se/student/kurser/kurs/DD2447) (Lecturer; 2021-)| Xindi Liu (KTH; 2022) |
-|AAAI 2025|  [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) (TA; 2020-2022)| Ricky Molén (KTH; 2022)|
-|NerIPS 2025 | [Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)| |
-|Advances in approximate Bayesian inference 2023| ||
+|ICLR 2025 | [Statistical Methods in Applied Computer Science](https://www.kth.se/student/kurser/kurs/DD2447) (Lecturer; 2021-)| Felix Meli (KTH; 2026) |
+|AAAI 2025|  [Machine Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2434?l=en) (TA; 2020-2022)| Lisa Schunke (KTH + TU Münich; 2026) |
+|NerIPS 2025 | [Deep Learning, Advanced Course](https://www.kth.se/student/kurser/kurs/DD2412?l=en) (TA; 2021-2022)| Xindi Liu (KTH; 2022) |
+|Advances in approximate Bayesian inference 2023| | Ricky Molén (KTH; 2022) |
 |NeurIPS 2023 | ||
 |AISTATS 2023: **rewarded Top reviewer** (10%; [link](https://aistats.org/aistats2023/reviewers.html)) | ||
 |NeurIPS 2022 | |
