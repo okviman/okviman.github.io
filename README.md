@@ -33,7 +33,7 @@ Ph.D. in Computer science from KTH.<br />email: okviman@kth.se or okviman@gmail.
 
 
 ### Theses
-- [Variational Mixtures and Multi-Marginal Flow Matching: Advancing Statistical Inference with Biological Applications](https://kth.diva-portal.org/smash/get/diva2:2055601/FULLTEXT01.pdf), *Ph.D. Thesis 2026* (opponent: [Ben Raphael](https://engineering.princeton.edu/faculty/ben-raphael); supervised by [Jens Lagergren](https://lagergrenlab.org/))
+- [Variational Mixtures and Multi-Marginal Flow Matching: Advancing Statistical Inference with Biological Applications](https://okviman.github.io/files/oskar-kviman-doctoral-thesis-2026.pdf), *Ph.D. Thesis 2026* (opponent: [Ben Raphael](https://engineering.princeton.edu/faculty/ben-raphael); supervised by [Jens Lagergren](https://lagergrenlab.org/))
 - [KL/TV Reshuffling: Statistical Distance Based Offspring Selection in SMC Methods](http://kth.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=15&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=en&pid=diva2%3A1692964&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-4716), *Master Thesis 2020* (supervised by [Jens Lagergren](https://lagergrenlab.org/))
 - [Applicability of a Translucent Barrier Based Model of Noise](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1264837&dswid=-1411), *Bachelor Thesis 2018* (with Linus Nilsson; supervised by [Saikat Chatterjee](https://www.kth.se/profile/sach))
 
