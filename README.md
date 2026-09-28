@@ -3,7 +3,7 @@
 
 ETH AI Center postdoctoral fellow (2026 cohort) with mentors [Niko Beerenwinkel](https://bsse.ethz.ch/cbg) and [Valentina Boeva](https://boevalab.inf.ethz.ch/index.html). 
 
-[Ph.D. in Computer science from KTH](../thesis.html).<br />email: okviman@ethz.ch, okviman@kth.se or okviman@gmail.com<br />
+[Ph.D. in Computer science from KTH](okviman.github.io/thesis.html).<br />email: okviman@ethz.ch, okviman@kth.se or okviman@gmail.com<br />
 
 ### Research interests 
 
